@@ -20,3 +20,8 @@ console.log(x, y, t);
 
 console.log(x + 1);
 
+const a = 1;
+const b = 2;
+const c = 3;
+
+console.log(a + b + c);
